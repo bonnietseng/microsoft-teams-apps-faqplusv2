@@ -19,7 +19,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Strings {
@@ -61,13 +61,13 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hi, I&apos;m your friendly Q&amp;A bot. You can ask me questions, and I&apos;ll do my best to answer. If I can&apos;t help, I&apos;ll connect you to an expert.
+        ///   Looks up a localized string similar to 嗨，我是您的友善問答機器人。您可以問我問題，我會盡力回答。如果無法幫助，我會把您與專家聯繫起來。
         ///
-        ///My key features:
+        ///我的主要特點：
         ///
-        ///* Ask a question, get an answer
-        ///* Ask an expert
-        ///* Share feedback.
+        ///*提出問題，得到答案
+        ///*詢問專家
+        ///*分享反饋.
         /// </summary>
         public static string DefaultHelpTabText {
             get {
@@ -76,12 +76,12 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hi, I&apos;m your friendly Q&amp;A bot. You can ask me questions, and I&apos;ll do my best to answer. If I can&apos;t help, I&apos;ll connect you to an expert.
+        ///   Looks up a localized string similar to 嗨，我是您的友善問答機器人。您可以問我問題，我會盡力回答。如果無法幫助，我會把您與專家聯繫起來。
         ///
-        ///You can ask the following questions:
-        ///* How do you work?
-        ///* Which benefits are available?
-        ///* What things are available here right now?.
+        ///您可以提出以下問題：
+        ///* 你如何工作的？
+        ///*有哪些好處？
+        ///*現在這裡有什麼可用的？.
         /// </summary>
         public static string DefaultWelcomeMessage {
             get {
@@ -90,7 +90,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Provide text which will be displayed in Help tab of the bot and then click on Ok to add or Edit to modify.
+        ///   Looks up a localized string similar to 提供將顯示在機器人的“幫助”選項卡中的文本，然後單擊“確定”以添加或編輯以進行修改.
         /// </summary>
         public static string HelpTabTextToolTipHoverMessage {
             get {
@@ -99,7 +99,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Provide a valid knowledgebase id which will be used by bot and then click on Ok to add or Edit to modify.
+        ///   Looks up a localized string similar to 提供一個將由機器人使用的有效知識庫ID，然後單擊“確定”以添加或編輯以進行修改.
         /// </summary>
         public static string KnowledgeBaseToolTipHoverMessage {
             get {
@@ -108,7 +108,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Provide a team id deeplink which will be used by bot and then click on Ok to add or Edit to modify.
+        ///   Looks up a localized string similar to 提供一個由機器人使用的團隊ID深度鏈接，然後單擊“確定”以添加或編輯以進行修改.
         /// </summary>
         public static string TeamIdToolTipHoverMessage {
             get {
@@ -117,7 +117,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Provide a welcome message which will be used by bot and then click on Ok to add or Edit to modify.
+        ///   Looks up a localized string similar to 提供歡迎消息，該消息將被機器人使用，然後單擊確定以添加或編輯以進行修改.
         /// </summary>
         public static string WelcomeMessageToolTipHoverMessage {
             get {
