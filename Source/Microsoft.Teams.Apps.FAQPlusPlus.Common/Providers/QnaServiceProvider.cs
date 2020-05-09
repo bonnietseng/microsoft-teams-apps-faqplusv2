@@ -192,11 +192,11 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Common.Providers
             {
                 IsTest = isTestKnowledgeBase,
                 Question = question?.Trim(),
-                ScoreThreshold = Convert.ToDouble(this.options.ScoreThreshold),
+                ScoreThreshold = Convert.ToDouble(this.options.ScoreThreshold, CultureInfo.InvariantCulture),
             }).ConfigureAwait(false);
 
             return qnaSearchResult;
-        }
+        }   
 
         /// <summary>
         /// This method returns the downloaded knowledgebase documents.
