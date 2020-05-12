@@ -61,7 +61,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Add new question details.
+        ///   Looks up a localized string similar to 新增問題詳細資訊.
         /// </summary>
         public static string AddQuestionSubtitle {
             get {
@@ -70,7 +70,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **Answer:**.
+        ///   Looks up a localized string similar to **回覆:**.
         /// </summary>
         public static string AnswerTitle {
             get {
@@ -79,7 +79,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask an expert.
+        ///   Looks up a localized string similar to 詢問工程師.
         /// </summary>
         public static string AskAnExpertButtonText {
             get {
@@ -88,7 +88,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask an expert.
+        ///   Looks up a localized string similar to 詢問工程師.
         /// </summary>
         public static string AskAnExpertDisplayText {
             get {
@@ -97,7 +97,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Type your detailed question and supporting details here (500 characters max).
+        ///   Looks up a localized string similar to 在此輸入您的詳細問題和資訊 (最多支援500個字元).
         /// </summary>
         public static string AskAnExpertPlaceholderText {
             get {
@@ -106,7 +106,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The expert will respond to you directly with a chat message..
+        ///   Looks up a localized string similar to 工程師將直接透過聊天回覆您的問題.
         /// </summary>
         public static string AskAnExpertSubheaderText {
             get {
@@ -115,7 +115,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to ...If my answer isn&apos;t satisfactory... I&apos;ll connect you to an expert..
+        ///   Looks up a localized string similar to 如果您對我的回覆不太滿意，我會將您轉接給工程師.
         /// </summary>
         public static string AskAnExpertText2 {
             get {
@@ -124,7 +124,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask an expert.
+        ///   Looks up a localized string similar to 詢問工程師.
         /// </summary>
         public static string AskAnExpertTitleText {
             get {
@@ -133,7 +133,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your question has been assigned to an expert. They&apos;ll respond to you directly with a chat message..
+        ///   Looks up a localized string similar to 您的問題已經轉交工程師，工程師將會直接透過聊天對話回覆您.
         /// </summary>
         public static string AssignedTicketUserNotification {
             get {
@@ -142,7 +142,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assigned.
+        ///   Looks up a localized string similar to 已指派.
         /// </summary>
         public static string AssignedUserNotificationStatus {
             get {
@@ -151,7 +151,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assign to me.
+        ///   Looks up a localized string similar to 指派給我.
         /// </summary>
         public static string AssignToMeActionChoiceTitle {
             get {
@@ -160,7 +160,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to BackButton.
+        ///   Looks up a localized string similar to 返回鍵.
         /// </summary>
         public static string BackButtonCommandText {
             get {
@@ -169,7 +169,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Back.
+        ///   Looks up a localized string similar to 返回.
         /// </summary>
         public static string BackButtonText {
             get {
@@ -178,7 +178,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Change status.
+        ///   Looks up a localized string similar to 變更狀態.
         /// </summary>
         public static string ChangeStatusButtonText {
             get {
@@ -187,7 +187,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Chat with {0}.
+        ///   Looks up a localized string similar to 與…聊天 {0}.
         /// </summary>
         public static string ChatTextButton {
             get {
@@ -196,7 +196,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Close.
+        ///   Looks up a localized string similar to 關閉.
         /// </summary>
         public static string CloseActionChoiceTitle {
             get {
@@ -205,7 +205,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Closed: .
+        ///   Looks up a localized string similar to 關閉:.
         /// </summary>
         public static string ClosedFactTitle {
             get {
@@ -214,7 +214,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request has been closed. Ask an expert again if you still need more assistance..
+        ///   Looks up a localized string similar to 您的請求已經被關閉。如果仍需要詢問其他問題，歡迎再與我們聯繫.
         /// </summary>
         public static string ClosedTicketUserNotification {
             get {
@@ -223,7 +223,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Closed.
+        ///   Looks up a localized string similar to 關閉.
         /// </summary>
         public static string ClosedUserNotificationStatus {
             get {
@@ -232,7 +232,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I didn&apos;t find a matching answer for this question. Do you want me to ask an expert?.
+        ///   Looks up a localized string similar to 我找不到與這個問題匹配的答案，您要我詢問工程師嗎?.
         /// </summary>
         public static string CustomMessage {
             get {
@@ -241,7 +241,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Created: .
+        ///   Looks up a localized string similar to 建立:.
         /// </summary>
         public static string DateCreatedDisplayFactTitle {
             get {
@@ -250,7 +250,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {0} at {1}.
+        ///   Looks up a localized string similar to {0}  {1}.
         /// </summary>
         public static string DateFormat {
             get {
@@ -259,7 +259,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete.
+        ///   Looks up a localized string similar to 刪除.
         /// </summary>
         public static string DeleteButtonText {
             get {
@@ -268,7 +268,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Are you sure you want to delete this item? The question and answer will both be deleted..
+        ///   Looks up a localized string similar to 您確定要刪除這個項目嗎? 問題和答案都將被刪除.
         /// </summary>
         public static string DeleteConfirmation {
             get {
@@ -277,7 +277,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Deleted by {0}.
+        ///   Looks up a localized string similar to 刪除者 {0}.
         /// </summary>
         public static string DeletedQnaPair {
             get {
@@ -286,7 +286,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Description:.
+        ///   Looks up a localized string similar to 描述：.
         /// </summary>
         public static string DescriptionFact {
             get {
@@ -295,7 +295,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to *Description (Markdown supported).
+        ///   Looks up a localized string similar to *描述 (支援標記).
         /// </summary>
         public static string DescriptionLabelText {
             get {
@@ -304,7 +304,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (500 characters max).
+        ///   Looks up a localized string similar to 輸入資訊 (最多支援500個字元).
         /// </summary>
         public static string DescriptionPlaceholderText {
             get {
@@ -313,7 +313,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Description.
+        ///   Looks up a localized string similar to 描述.
         /// </summary>
         public static string DescriptionText {
             get {
@@ -322,7 +322,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Edit.
+        ///   Looks up a localized string similar to 編輯.
         /// </summary>
         public static string EditButtonText {
             get {
@@ -331,7 +331,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Edit question details.
+        ///   Looks up a localized string similar to 編輯問題詳細資訊.
         /// </summary>
         public static string EditQuestionSubtitle {
             get {
@@ -340,7 +340,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Description cannot be empty..
+        ///   Looks up a localized string similar to 描述不能是空白.
         /// </summary>
         public static string EmptyDescriptionErrorText {
             get {
@@ -349,7 +349,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Image url can not be empty..
+        ///   Looks up a localized string similar to 圖片網址不能是空白.
         /// </summary>
         public static string EmptyImageUrlErrorText {
             get {
@@ -358,7 +358,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Question text cannot be empty..
+        ///   Looks up a localized string similar to 問題內容不能是空白.
         /// </summary>
         public static string EmptyQuestionErrorText {
             get {
@@ -367,7 +367,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title cannot be empty..
+        ///   Looks up a localized string similar to 標題不能是空白.
         /// </summary>
         public static string EmptyTitleErrorText {
             get {
@@ -376,7 +376,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Created by.
+        ///   Looks up a localized string similar to 建立者.
         /// </summary>
         public static string EntryCreatedByText {
             get {
@@ -385,7 +385,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Something went wrong. Please try again later..
+        ///   Looks up a localized string similar to 出問題了，請稍後再試.
         /// </summary>
         public static string ErrorMessage {
             get {
@@ -394,7 +394,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **{0}** has shared the feedback.
+        ///   Looks up a localized string similar to **{0}**  已經分享了他的回饋.
         /// </summary>
         public static string FeedbackAlertText {
             get {
@@ -403,7 +403,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter your feedback and supporting details here (500 characters max).
+        ///   Looks up a localized string similar to 在此輸入您的建議 (最多支援500個字元).
         /// </summary>
         public static string FeedbackDescriptionPlaceholderText {
             get {
@@ -412,7 +412,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Feedback (Required).
+        ///   Looks up a localized string similar to 建議 (必填).
         /// </summary>
         public static string FeedbackRatingRequired {
             get {
@@ -421,7 +421,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tell my team of experts how I&apos;m doing so they can help me improve..
+        ///   Looks up a localized string similar to 告訴我的團隊我做得如何，這樣可以幫助我改善.
         /// </summary>
         public static string FeedbackText1 {
             get {
@@ -430,7 +430,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Ask a question.
+        ///   Looks up a localized string similar to 問一個問題.
         /// </summary>
         public static string FunctionCardText1 {
             get {
@@ -439,7 +439,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can ask me a question by typing it in the chat box below  I&apos;ll try my best to answer it....
+        ///   Looks up a localized string similar to 您可以透過以下的對話框來詢問問題，我會盡力來回答….
         /// </summary>
         public static string FunctionCardText2 {
             get {
@@ -448,7 +448,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Go to original thread.
+        ///   Looks up a localized string similar to 回到原始的話題.
         /// </summary>
         public static string GoToOriginalThreadButtonText {
             get {
@@ -457,7 +457,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to View details.
+        ///   Looks up a localized string similar to 詳細資訊.
         /// </summary>
         public static string GoToThread {
             get {
@@ -466,7 +466,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Helpful.
+        ///   Looks up a localized string similar to 有幫助的.
         /// </summary>
         public static string HelpfulRatingText {
             get {
@@ -475,7 +475,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to HTML tags are not supported..
+        ///   Looks up a localized string similar to 不支援HTML標記.
         /// </summary>
         public static string HTMLErrorText {
             get {
@@ -484,7 +484,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Image URL.
+        ///   Looks up a localized string similar to 圖片網址.
         /// </summary>
         public static string ImageLabelText {
             get {
@@ -493,7 +493,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter image URL (200 characters max).
+        ///   Looks up a localized string similar to 輸入圖片網址 (最多支援200個字元).
         /// </summary>
         public static string ImageUrlPlaceholderText {
             get {
@@ -502,7 +502,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Image URL is not valid..
+        ///   Looks up a localized string similar to 圖片網址無效.
         /// </summary>
         public static string InvalidImageUrlErrorText {
             get {
@@ -511,7 +511,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Redirect URL is not valid..
+        ///   Looks up a localized string similar to 重新導向網址無效.
         /// </summary>
         public static string InvalidRedirectUrlText {
             get {
@@ -520,7 +520,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Last edited by.
+        ///   Looks up a localized string similar to 最後編輯者.
         /// </summary>
         public static string LastEditedText {
             get {
@@ -529,7 +529,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title field is mandatory..
+        ///   Looks up a localized string similar to 標題欄位試必填的欄位.
         /// </summary>
         public static string MandatoryTitleFieldText {
             get {
@@ -538,7 +538,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manually added question.
+        ///   Looks up a localized string similar to 手動新增問題.
         /// </summary>
         public static string ManuallyAddedQuestionMessage {
             get {
@@ -547,7 +547,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Needs Improvement.
+        ///   Looks up a localized string similar to 需要改善.
         /// </summary>
         public static string NeedsImprovementRatingText {
             get {
@@ -556,7 +556,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No.
+        ///   Looks up a localized string similar to 沒有.
         /// </summary>
         public static string No {
             get {
@@ -565,7 +565,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The messaging extension can only be invoked from the channel in which the  app is installed.
+        ///   Looks up a localized string similar to 只能在有安裝應用程式的頻道中做訊息的延展.
         /// </summary>
         public static string NonSMEErrorText {
             get {
@@ -574,7 +574,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Not helpful.
+        ///   Looks up a localized string similar to 沒有幫助.
         /// </summary>
         public static string NotHelpfulRatingText {
             get {
@@ -583,7 +583,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to I&apos;ve shared your question with the related experts. They&apos;ll respond to you directly with a chat message..
+        ///   Looks up a localized string similar to 我已經將您的問題分享給相關的工程師，他們會直接透過聊天對話框跟您聯繫.
         /// </summary>
         public static string NotificationCardContent {
             get {
@@ -592,7 +592,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Open article.
+        ///   Looks up a localized string similar to 開啟文章.
         /// </summary>
         public static string OpenArticle {
             get {
@@ -601,7 +601,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Optional Fields.
+        ///   Looks up a localized string similar to 選填欄位.
         /// </summary>
         public static string OptionalFieldDisplayText {
             get {
@@ -610,7 +610,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Preview.
+        ///   Looks up a localized string similar to 預覽.
         /// </summary>
         public static string PreviewButtonText {
             get {
@@ -619,7 +619,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Question already exist. please add different question..
+        ///   Looks up a localized string similar to 該問題已經存在，請新增其他的問題.
         /// </summary>
         public static string QuestionAlreadyExistsErrorText {
             get {
@@ -628,7 +628,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Question asked:.
+        ///   Looks up a localized string similar to 詢問的問題:.
         /// </summary>
         public static string QuestionAskedFactTitle {
             get {
@@ -637,7 +637,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **{0}** is requesting support..
+        ///   Looks up a localized string similar to **{0}** 正在尋求支援.
         /// </summary>
         public static string QuestionForExpertSubHeaderText {
             get {
@@ -646,7 +646,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to *Question.
+        ///   Looks up a localized string similar to *問題.
         /// </summary>
         public static string QuestionLabelText {
             get {
@@ -655,7 +655,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (100 characters max).
+        ///   Looks up a localized string similar to 輸入資訊 (最多支援100個字元).
         /// </summary>
         public static string QuestionPlaceholderText {
             get {
@@ -664,7 +664,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to **Question:** {0}.
+        ///   Looks up a localized string similar to **問題:** {0}.
         /// </summary>
         public static string QuestionTitle {
             get {
@@ -673,7 +673,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rating is mandatory.
+        ///   Looks up a localized string similar to 評分是必填欄位.
         /// </summary>
         public static string RatingMandatoryText {
             get {
@@ -682,7 +682,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Rating.
+        ///   Looks up a localized string similar to 評分.
         /// </summary>
         public static string RatingTitle {
             get {
@@ -691,7 +691,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Redirection URL.
+        ///   Looks up a localized string similar to 重新導向網址.
         /// </summary>
         public static string RedirectionLabelText {
             get {
@@ -700,7 +700,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (200 characters max).
+        ///   Looks up a localized string similar to 輸入資訊 (最多支援200個字元).
         /// </summary>
         public static string RedirectionUrlPlaceholderText {
             get {
@@ -709,7 +709,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reopen.
+        ///   Looks up a localized string similar to 重新開啟.
         /// </summary>
         public static string ReopenActionChoiceTitle {
             get {
@@ -718,7 +718,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Reopen and assign to me.
+        ///   Looks up a localized string similar to 重新開啟並且指派給我.
         /// </summary>
         public static string ReopenAssignToMeActionChoiceTitle {
             get {
@@ -727,7 +727,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your request is open again. An expert will directly send you a chat message..
+        ///   Looks up a localized string similar to 您的請求已經重新被開啟，工程師將透過聊天訊息直接跟您聯繫.
         /// </summary>
         public static string ReopenedTicketUserNotification {
             get {
@@ -736,7 +736,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Here is what I found:.
+        ///   Looks up a localized string similar to 這是我找到的資訊:.
         /// </summary>
         public static string ResponseHeaderText {
             get {
@@ -745,7 +745,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Results feedback.
+        ///   Looks up a localized string similar to 結果建議.
         /// </summary>
         public static string ResultsFeedbackText {
             get {
@@ -754,7 +754,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Save.
+        ///   Looks up a localized string similar to 儲存.
         /// </summary>
         public static string SaveButtonText {
             get {
@@ -763,7 +763,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Share feedback.
+        ///   Looks up a localized string similar to 分享建議.
         /// </summary>
         public static string ShareFeedbackButtonText {
             get {
@@ -772,7 +772,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Share feedback.
+        ///   Looks up a localized string similar to 分享建議.
         /// </summary>
         public static string ShareFeedbackDisplayText {
             get {
@@ -781,7 +781,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Share app feedback.
+        ///   Looks up a localized string similar to 分享應用程式回饋.
         /// </summary>
         public static string ShareFeedbackTitleText {
             get {
@@ -790,7 +790,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter short title here (50 characters max).
+        ///   Looks up a localized string similar to 在這裡輸入簡短標題 (最多50個字元).
         /// </summary>
         public static string ShowCardTitleText {
             get {
@@ -799,7 +799,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request is now assigned. Assigned to {0}..
+        ///   Looks up a localized string similar to 這個問題已經被指派，指派給  {0}.
         /// </summary>
         public static string SMEAssignedStatus {
             get {
@@ -808,7 +808,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request is now closed. Closed by {0}..
+        ///   Looks up a localized string similar to 這個問題已經被關閉，關閉者  {0}.
         /// </summary>
         public static string SMEClosedStatus {
             get {
@@ -817,7 +817,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Feedback.
+        ///   Looks up a localized string similar to 建議 (必填).
         /// </summary>
         public static string SMEFeedbackHeaderText {
             get {
@@ -826,7 +826,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This request is now unassigned. Last updated by {0}. .
+        ///   Looks up a localized string similar to 這個問題目前尚未指派，最後更新為  {0}.
         /// </summary>
         public static string SMEOpenedStatus {
             get {
@@ -835,7 +835,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Assigned to {0}.
+        ///   Looks up a localized string similar to 指派給 {0}.
         /// </summary>
         public static string SMETicketAssignedStatus {
             get {
@@ -844,7 +844,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Closed.
+        ///   Looks up a localized string similar to 關閉.
         /// </summary>
         public static string SMETicketClosedStatus {
             get {
@@ -853,7 +853,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unassigned.
+        ///   Looks up a localized string similar to 未指派.
         /// </summary>
         public static string SMETicketUnassignedStatus {
             get {
@@ -862,7 +862,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to RE: {0}.
+        ///   Looks up a localized string similar to 回覆：{0}.
         /// </summary>
         public static string SMEUserChatMessage {
             get {
@@ -871,7 +871,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Status: .
+        ///   Looks up a localized string similar to 狀態:.
         /// </summary>
         public static string StatusFactTitle {
             get {
@@ -880,7 +880,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Subtitle (Markdown supported).
+        ///   Looks up a localized string similar to 副標題 (支援標記).
         /// </summary>
         public static string SubtitleLabelText {
             get {
@@ -889,7 +889,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (20 characters max).
+        ///   Looks up a localized string similar to 輸入資訊 (最多20個字元).
         /// </summary>
         public static string SubtitlePlaceholderText {
             get {
@@ -898,7 +898,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The optional fields below can be used to add additional details to the answer..
+        ///   Looks up a localized string similar to 下面選填的欄位可以用來再回覆中填入其他的資訊.
         /// </summary>
         public static string SuggestedText {
             get {
@@ -907,7 +907,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Team tour.
+        ///   Looks up a localized string similar to 團隊導覽.
         /// </summary>
         public static string TakeATeamTourButtonText {
             get {
@@ -916,7 +916,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Take a tour.
+        ///   Looks up a localized string similar to 功能導覽.
         /// </summary>
         public static string TakeATourButtonText {
             get {
@@ -925,7 +925,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Click chat with user button to initiate a direct chat..
+        ///   Looks up a localized string similar to 點擊與使用者聊天來直接啟動聊天對話框.
         /// </summary>
         public static string TeamChatContent {
             get {
@@ -934,7 +934,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Initiate chat with end users.
+        ///   Looks up a localized string similar to 啟用與使用的的聊天.
         /// </summary>
         public static string TeamChatHeaderText {
             get {
@@ -943,7 +943,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hello, I don&apos;t support bot commands in the Team. Here is a quick tour of how I can help..
+        ///   Looks up a localized string similar to 您好，我不支援Teams中的機器人命令。以下是提供快速入門，裡面描述了我可以幫忙的地方.
         /// </summary>
         public static string TeamCustomMessage {
             get {
@@ -952,7 +952,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You can see what users need help with..
+        ///   Looks up a localized string similar to 您可以看到使用者需要幫忙的地方.
         /// </summary>
         public static string TeamNotificationContent {
             get {
@@ -961,7 +961,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Receive notifications from end users.
+        ///   Looks up a localized string similar to 收到來自使用者的通知訊息.
         /// </summary>
         public static string TeamNotificationHeaderText {
             get {
@@ -970,7 +970,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Mark requests assigned or closed to keep track of queries..
+        ///   Looks up a localized string similar to 將使用者需求標記為已指派或是以追蹤查詢將請求關閉.
         /// </summary>
         public static string TeamTicketSystemContent {
             get {
@@ -979,7 +979,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Manage queries.
+        ///   Looks up a localized string similar to 管理查詢.
         /// </summary>
         public static string TeamTicketSystemHeaderText {
             get {
@@ -988,7 +988,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Thanks for your feedback! I&apos;ve shared it with the experts. This helps me learn and improve..
+        ///   Looks up a localized string similar to 感謝您的建議! 我已經跟工程師分享了，這將會幫助我學習與改進.
         /// </summary>
         public static string ThankYouTextContent {
             get {
@@ -997,7 +997,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title:.
+        ///   Looks up a localized string similar to 標題：.
         /// </summary>
         public static string TitleFact {
             get {
@@ -1006,7 +1006,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title (Markdown supported).
+        ///   Looks up a localized string similar to 標題 (支援標記).
         /// </summary>
         public static string TitleLabelText {
             get {
@@ -1015,7 +1015,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enter information (50 characters max).
+        ///   Looks up a localized string similar to 輸入資訊 (最多50個字元).
         /// </summary>
         public static string TitlePlaceholderText {
             get {
@@ -1024,7 +1024,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Title (Required).
+        ///   Looks up a localized string similar to 標題 (必填).
         /// </summary>
         public static string TitleRequiredText {
             get {
@@ -1033,7 +1033,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unassign.
+        ///   Looks up a localized string similar to 未指派.
         /// </summary>
         public static string UnassignActionChoiceTitle {
             get {
@@ -1042,7 +1042,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Unassigned.
+        ///   Looks up a localized string similar to 未指派.
         /// </summary>
         public static string UnassignedUserNotificationStatus {
             get {
@@ -1051,7 +1051,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Update history.
+        ///   Looks up a localized string similar to 更新記錄.
         /// </summary>
         public static string UpdateHistoryButtonText {
             get {
@@ -1060,7 +1060,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Date.
+        ///   Looks up a localized string similar to 日期.
         /// </summary>
         public static string UpdateHistoryDateHeaderText {
             get {
@@ -1069,7 +1069,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Name|Action|Date.
+        ///   Looks up a localized string similar to 姓名|動作|日期.
         /// </summary>
         public static string UpdateHistoryHeadersText {
             get {
@@ -1078,7 +1078,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to View article.
+        ///   Looks up a localized string similar to 檢視文章.
         /// </summary>
         public static string ViewArticleButtonText {
             get {
@@ -1087,7 +1087,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please wait for some time, updates to this question: &quot;{0}&quot; will be available in short time..
+        ///   Looks up a localized string similar to 再稍等一下，我們將會很快更新關於 &quot;{0}&quot; 的相關資訊.
         /// </summary>
         public static string WaitMessage {
             get {
@@ -1096,7 +1096,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Note: Updates are made every few minutes.
+        ///   Looks up a localized string similar to 請注意：更新將會幾分鐘進行一次.
         /// </summary>
         public static string WaitMessageAnswer {
             get {
@@ -1105,9 +1105,9 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hello team,   
+        ///   Looks up a localized string similar to 您好，
         ///
-        ///I am your friendly Q&amp;A bot that helps you provide support to people who interact with me and need more assistance..
+        ///我是您的貼心 Q&amp;A 小幫手，我可以提供您需要的幫助以及其他的協助。.
         /// </summary>
         public static string WelcomeTeamCardContent {
             get {
@@ -1116,7 +1116,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Yes.
+        ///   Looks up a localized string similar to 是的.
         /// </summary>
         public static string Yes {
             get {
