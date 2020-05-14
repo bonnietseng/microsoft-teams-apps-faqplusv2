@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "id": "aba30cfc-05df-4002-b956-a70996b12a54",
   "packageName": "com.microsoft.teams.faqplus",
-  "developer": {
+   "developer": {
     "name": "<<companyName>>",
     "websiteUrl": "<<websiteUrl>>",
     "privacyUrl": "<<privacyUrl>>",
@@ -15,11 +15,11 @@
     "outline": "outline.png"
   },
   "name": {
-    "short": "FAQ Plus [V2]"
+    "short": "常見問題解答加 [V2]"
   },
   "description": {
-    "short": "A friendly FAQ bot that answers questions and connects you to experts.",
-    "full": "A friendly question and answer bot that answers commonly asked questions. If it can't answer, it will put you in touch with an expert as soon as they are available."
+    "short": "一個貼心的 Q&A  小幫手可以回答您的問題並且可以協助聯繫工程師",
+    "full": "一個貼心的 Q&A 小幫手可以回答常見問題。如果無法回答的部分，將會安排工程師立即來跟您聯繫"
   },
   "accentColor": "#64A2CC",
   "bots": [
@@ -36,16 +36,16 @@
           ],
           "commands": [
             {
-              "title": "Take a tour",
-              "description": "Tour of key features"
+              "title": "功能導覽",
+              "description": "主要功能導覽"
             },
             {
-              "title": "Ask an expert",
-              "description": "Connect with an expert"
+              "title": "詢問工程師",
+              "description": "聯絡工程師"
             },
             {
-              "title": "Share feedback",
-              "description": "Send feedback"
+              "title": "分享建議",
+              "description": "發送建議"
             }
           ]
         }
@@ -69,6 +69,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<appDomain>>"
+    "<<appDomain>>"   
   ]
 }
