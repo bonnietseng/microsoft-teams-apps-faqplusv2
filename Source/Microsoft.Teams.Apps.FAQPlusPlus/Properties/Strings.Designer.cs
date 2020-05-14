@@ -187,7 +187,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 提交.
+        ///   Looks up a localized string similar to 儲存.
         /// </summary>
         public static string ChangeStatusSubmitButtonText {
             get {

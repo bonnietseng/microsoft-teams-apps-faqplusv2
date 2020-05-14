@@ -590,7 +590,7 @@
     <comment>Date header text in update history adaptive card text.</comment>
   </data>
   <data name="ChangeStatusSubmitButtonText" xml:space="preserve">
-    <value>提交</value>
+    <value>儲存</value>
     <comment>Button text when SME changes the ticket status</comment>
   </data>
 </root>
