@@ -187,6 +187,15 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 提交.
+        /// </summary>
+        public static string ChangeStatusSubmitButtonText {
+            get {
+                return ResourceManager.GetString("ChangeStatusSubmitButtonText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 與…聊天 {0}.
         /// </summary>
         public static string ChatTextButton {
