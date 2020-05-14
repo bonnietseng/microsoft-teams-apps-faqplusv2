@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "manifestVersion": "1.5",
   "version": "1.0.0",
-  "id": "165dc594-e36a-488f-a8ba-20fcebacad86",
+  "id": "165dc594-e36a-488f-a8ba-20fcebacad87",
   "packageName": "com.microsoft.teams.faqplus.experts",
   "developer": {
     "name": "<<companyName>>",
@@ -15,11 +15,11 @@
     "outline": "outline.png"
   },
   "name": {
-    "short": "FAQ Plus [V2] (Experts Team)"
+    "short": "常見問題解答加 [V2](工程師團隊)"
   },
   "description": {
-    "short": "A friendly FAQ bot that answers questions and connects you to experts.",
-    "full": "A friendly question and answer bot that answers commonly asked questions. If it can't answer, it will put you in touch with an expert as soon as they are available."
+     "short": "一個貼心的 Q&A  小幫手可以回答您的問題並且可以協助聯繫工程師",
+    "full": "一個貼心的 Q&A 小幫手可以回答常見問題。如果無法回答的部分，將會安排工程師立即來跟您聯繫"
   },
   "accentColor": "#64A2CC",
   "bots": [
@@ -36,16 +36,16 @@
           ],
           "commands": [
             {
-              "title": "Take a tour",
-              "description": "Tour of key features"
+              "title": "功能導覽",
+              "description": "主要功能導覽"
             },
             {
-              "title": "Ask an expert",
-              "description": "Connect with an expert"
+              "title": "詢問工程師",
+              "description": "聯絡工程師"
             },
             {
-              "title": "Share feedback",
-              "description": "Send feedback"
+              "title": "分享建議",
+              "description": "發送建議"
             }
           ]
         }
@@ -72,13 +72,13 @@
         {
           "id": "recents",
           "type": "query",
-          "title": "Recent",
-          "description": "Search recent requests",
+          "title": "最近",
+          "description": "搜尋最近的要求",
           "parameters": [
             {
               "name": "searchText",
-              "title": "Search",
-              "description": "Search tickets"
+              "title": "找",
+              "description": "找尋單號"
             }
           ],
           "context": [
@@ -89,13 +89,13 @@
         {
           "id": "openrequests",
           "type": "query",
-          "title": "Unassigned",
-          "description": "Search unassigned requests not yet assigned to an expert",
+          "title": "未指派",
+          "description": "搜尋尚未指派工程師的要求",
           "parameters": [
             {
               "name": "searchText",
-              "title": "Search",
-              "description": "Search tickets"
+              "title": "找",
+              "description": "找尋單號"
             }
           ],
           "context": [
@@ -106,13 +106,13 @@
         {
           "id": "assignedrequests",
           "type": "query",
-          "title": "Assigned",
-          "description": "Search requests assigned to an expert",
+          "title": "已指派",
+          "description": "搜尋已指派工程師的要求",
           "parameters": [
             {
               "name": "searchText",
-              "title": "Search",
-              "description": "Search tickets"
+              "title": "找",
+              "description": "找尋單號"
             }
           ],
           "context": [
@@ -123,13 +123,13 @@
         {
           "id": "kbquestions",
           "type": "query",
-          "title": "Knowledge base",
-          "description": "Search recent requests",
+          "title": "知識庫",
+          "description": "搜尋最近請求",
           "parameters": [
             {
               "name": "searchText",
-              "title": "Search",
-              "description": "Search KB QnA pairs"
+              "title": "找",
+              "description": "搜尋 Q&A 知識庫"
             }
           ],
           "context": [
@@ -140,8 +140,8 @@
         {
           "id": "addquestion",
           "type": "action",
-          "title": "Add new question",
-          "description": "Add a new qna pair",
+          "title": "新增問題",
+          "description": "新增一筆 Q&A 知識庫紀錄",
           "initialRun": true,
           "fetchTask": true,
           "context": [
@@ -151,8 +151,8 @@
           "parameters": [
             {
               "name": "addquestion",
-              "title": "Add a question",
-              "description": "Add a new qna pair"
+              "title": "新增問題",
+              "description": "新增一筆 Q&A 知識庫紀錄"
             }
           ]
         }
