@@ -17,13 +17,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @*@Html.ActionLink("Configuration App", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })*@
-                @Html.ActionLink("配置應用", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Configuration App", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    @*<li>@Html.ActionLink("Home", "Index", "Home")</li>*@
-                    <li>@Html.ActionLink("家", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
                 </ul>
                 @if (Request.IsAuthenticated)
                 {
@@ -33,8 +31,7 @@
                                 <a>@User.Identity.Name</a>
                             </li>
                             <li>
-                                @*@Html.ActionLink("Sign out", "SignOut", "Account")*@
-                                @Html.ActionLink("登出", "SignOut", "Account")
+                                @Html.ActionLink("Sign out", "SignOut", "Account")
                             </li>
                         </ul>
                     </text>
