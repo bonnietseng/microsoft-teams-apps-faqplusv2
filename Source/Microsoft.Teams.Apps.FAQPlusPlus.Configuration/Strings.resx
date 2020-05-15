@@ -118,38 +118,38 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DefaultHelpTabText" xml:space="preserve">
-    <value>嗨，我是您的友善問答機器人。您可以問我問題，我會盡力回答。如果無法幫助，我會把您與專家聯繫起來。
+    <value>Hi, I'm your friendly Q&amp;A bot. You can ask me questions, and I'll do my best to answer. If I can't help, I'll connect you to an expert.
 
-我的主要特點：
+My key features:
 
-*提出問題，得到答案
-*詢問專家
-*分享反饋</value>
+* Ask a question, get an answer
+* Ask an expert
+* Share feedback</value>
     <comment>Default help static tab text to be stored in configuration app</comment>
   </data>
   <data name="DefaultWelcomeMessage" xml:space="preserve">
-    <value>嗨，我是您的友善問答機器人。您可以問我問題，我會盡力回答。如果無法幫助，我會把您與專家聯繫起來。
+    <value>Hi, I'm your friendly Q&amp;A bot. You can ask me questions, and I'll do my best to answer. If I can't help, I'll connect you to an expert.
 
-您可以提出以下問題：
-* 你如何工作的？
-*有哪些好處？
-*現在這裡有什麼可用的？</value>
+You can ask the following questions:
+* How do you work?
+* Which benefits are available?
+* What things are available here right now?</value>
     <comment>Default welcome message text to be stored in configuration app</comment>
   </data>
   <data name="HelpTabTextToolTipHoverMessage" xml:space="preserve">
-    <value>提供將顯示在機器人的“幫助”選項卡中的文本，然後單擊“確定”以添加或編輯以進行修改</value>
+    <value>Provide text which will be displayed in Help tab of the bot and then click on Ok to add or Edit to modify</value>
     <comment>Message for help tab when information icon is hovered</comment>
   </data>
   <data name="KnowledgeBaseToolTipHoverMessage" xml:space="preserve">
-    <value>提供一個將由機器人使用的有效知識庫ID，然後單擊“確定”以添加或編輯以進行修改</value>
+    <value>Provide a valid knowledgebase id which will be used by bot and then click on Ok to add or Edit to modify</value>
     <comment>Message for knowledgebase id when information icon is hovered</comment>
   </data>
   <data name="TeamIdToolTipHoverMessage" xml:space="preserve">
-    <value>提供一個由機器人使用的團隊ID深度鏈接，然後單擊“確定”以添加或編輯以進行修改</value>
+    <value>Provide a team id deeplink which will be used by bot and then click on Ok to add or Edit to modify</value>
     <comment>Message for team id when information icon is hovered</comment>
   </data>
   <data name="WelcomeMessageToolTipHoverMessage" xml:space="preserve">
-    <value>提供歡迎消息，該消息將被機器人使用，然後單擊確定以添加或編輯以進行修改</value>
+    <value>Provide a welcome message which will be used by bot and then click on Ok to add or Edit to modify</value>
     <comment>Message for welcome message when information icon is hovered</comment>
   </data>
 </root>
