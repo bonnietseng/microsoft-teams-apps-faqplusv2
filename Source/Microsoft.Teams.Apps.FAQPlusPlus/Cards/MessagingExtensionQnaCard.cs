@@ -59,17 +59,17 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Cards
         /// <summary>
         /// Represents the add card action.
         /// </summary>
-        private const string AddAction = "Add";
+        private const string AddAction = "加"; // "Add"
 
         /// <summary>
         /// Represents the edit card action.
         /// </summary>
-        private const string EditAction = "Edit";
+        private const string EditAction = "編輯"; // "Edit"
 
         /// <summary>
         /// Represents the edit card action.
         /// </summary>
-        private const string DeleteAction = "Delete";
+        private const string DeleteAction = "刪除"; // "Delete"
 
         /// <summary>
         /// Represents the command text to identify the action.
