@@ -118,7 +118,7 @@
 
     // Perform changes when Edit related UI has to be displayed
     function toggleToEdit(section) {
-        $("#" + section + "SubmitButton").val("Edit");
+        $("#" + section + "SubmitButton").val("編輯"); //Edit
         $("." + section + "IdTextBox").attr("disabled", "disabled");
     }
 
@@ -144,9 +144,9 @@
     $(".toggleToEditButton").click(function () {
         var currentElement = $(this);
         var currentForm = currentElement.closest(".formToSubmit");
-        if (currentElement.val() === "Edit") {
+        if (currentElement.val() === "編輯") {
             currentForm.find(".toggleTextBox").removeAttr("disabled");
-            currentElement.val("OK");
+            currentElement.val("好");
         }
         else {
             currentForm.submit();

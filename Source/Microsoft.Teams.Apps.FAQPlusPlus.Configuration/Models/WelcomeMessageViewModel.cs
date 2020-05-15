@@ -13,10 +13,10 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration.Models
         /// <summary>
         /// Gets or sets welcome message text box to be used in View.
         /// </summary>
-        [Required(ErrorMessage = "Enter a welcome message.")]
-        [StringLength(maximumLength: 300, ErrorMessage = "Enter welcome message which should contain less than 300 characters.", MinimumLength = 2)]
+        [Required(ErrorMessage = "輸入歡迎消息。")]
+        [StringLength(maximumLength: 300, ErrorMessage = "輸入歡迎消息，該消息應少於300個字符。", MinimumLength = 2)]
         [DataType(DataType.Text)]
-        [Display(Name = "Welcome message")]
+        [Display(Name = "歡迎留言")]
         public string WelcomeMessage { get; set; }
     }
 }

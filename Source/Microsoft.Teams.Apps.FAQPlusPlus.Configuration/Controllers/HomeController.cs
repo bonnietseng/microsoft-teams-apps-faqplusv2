@@ -55,7 +55,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration.Controllers
             string teamIdAfterParse = ParseTeamIdFromDeepLink(teamId ?? string.Empty);
             if (string.IsNullOrWhiteSpace(teamIdAfterParse))
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest, "The provided team id is not valid.");
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest, "提供的團隊ID無效。");
             }
             else
             {
@@ -79,7 +79,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration.Controllers
             }
             else
             {
-                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "Sorry, unable to save the team id due to an internal error. Try again.");
+                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "抱歉，由於內部錯誤，無法保存團隊ID。再試一次。");
             }
         }
 
@@ -108,7 +108,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration.Controllers
             }
             else
             {
-                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "Sorry, unable to save the knowledge base id due to an internal error. Try again.");
+                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "抱歉，由於內部錯誤，無法保存知識庫ID。再試一次。");
             }
         }
 
@@ -128,14 +128,14 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration.Controllers
                 var endpointRefreshStatus = await this.RefreshQnAMakerEndpointKeyAsync().ConfigureAwait(false);
                 if (!endpointRefreshStatus)
                 {
-                    return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "Sorry, unable to save the QnAMaker endpoint key due to an internal error. Try again.");
+                    return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "抱歉，由於內部錯誤，無法保存QnAMaker端點密鑰。再試一次。");
                 }
 
                 return await this.UpsertKnowledgeBaseIdAsync(knowledgeBaseId).ConfigureAwait(false);
             }
             else
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest, "The provided knowledgebase id is not valid.");
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest, "提供的知識庫ID無效。");
             }
         }
 
@@ -165,7 +165,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration.Controllers
             }
             else
             {
-                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "Sorry, unable to save the welcome message due to an internal error. Try again.");
+                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "抱歉，由於內部錯誤，無法保存歡迎消息。再試一次。");
             }
         }
 
@@ -200,7 +200,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Configuration.Controllers
             }
             else
             {
-                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "Sorry, unable to save the help tab text due to an internal error. Try again.");
+                return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, "抱歉，由於內部錯誤，無法保存幫助標籤文本。再試一次。");
             }
         }
 
